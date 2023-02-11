@@ -1,3 +1,5 @@
 # Cricket-World-Cup-2022
 
-This project is about analysing the performance of different teams that participated in the worldcup like teams’s batting average, batting strike rate, total wickets, bowling economy,boundary percentage. And also the about the players who scored highest runs and bowlers who got highest wickets and so on.
+It is a visual representation of worldcup data. It is used to track and analyze cricket-related metrics such as batting averages, bowling averages, run rates, and more. The dashboard can be used to compare players, teams, and even entire leagues. It can also be used to identify trends and patterns in the data. The dashboard can be used to make decisions about team selection, tactics, and strategies. It can also be used to identify areas of improvement for players and teams
+
+
